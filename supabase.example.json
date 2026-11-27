@@ -1,0 +1,4 @@
+{
+  "SUPABASE_URL": "https://example.invalid",
+  "SUPABASE_PUBLISHABLE_KEY": "REPLACE_WITH_PUBLISHABLE_KEY"
+}
